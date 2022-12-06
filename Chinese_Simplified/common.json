@@ -1,0 +1,7 @@
+{
+    "welcome": {
+        "body": "编码很有趣",
+        "subtitle": "现在开始编码",
+        "title": "欢迎来到 {{framework}}"
+    }
+}
