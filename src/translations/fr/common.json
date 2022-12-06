@@ -1,0 +1,8 @@
+{
+	"banner": "bonjour à tous",
+	"welcome": {
+		"body": "Le codage est amusant",
+		"subtitle": "Commencez à coder maintenant",
+		"title": "Bienvenue à {{framework}}"
+	}
+}
